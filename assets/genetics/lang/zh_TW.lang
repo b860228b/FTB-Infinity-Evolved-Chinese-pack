@@ -1,0 +1,43 @@
+##################################################
+## Machines
+
+genetics.machine.machine.isolator=基因分離器
+genetics.machine.machine.isolator.info=基因分離器將會從蜜蜂,樹苗或者其它的獨立個體中隨機提取基因片段,並覆制到一個空的序列瓶中.這需要乙醇作為溶劑,還需要酶來切斷DNA.未序列化的血清可以在序列分析器中序列化,並在基因同化器中重新裝填.
+
+genetics.machine.machine.sequencer=序列分析器
+genetics.machine.machine.sequencer.info=序列分析器可以判定未序列化的血清的基因片段. 這需要很長的時間用於計算,還需要用到熒光染料.
+
+genetics.machine.machine.polymeriser=基因同化器
+genetics.machine.machine.polymeriser.info=基因同化器將會用DNA液體和細菌來重新填充血清.該過程可用金粒加速. 
+
+genetics.machine.machine.inoculator=基因註射器
+genetics.machine.machine.inoculator.info=基因註射器使用特定血清向可雜交個體中註入特定的基因.這個過程相當耗時,並且需要細菌作為催化劑,但是這是100%成功的.  
+
+genetics.machine.labMachine.genepool=基因池
+genetics.machine.labMachine.genepool.info=基因液體池使用酶和乙醇來破壞活體組織並將其轉化為DNA液體.所有遺傳信息都會丟失,DNA來源也會被破壞.
+
+
+genetics.machine.labMachine.labMachine=實驗台
+
+genetics.machine.labMachine.analyser=分析儀
+genetics.machine.labMachine.analyser.info=分析儀將會解析可增殖的DNA序列,並確定當前的基因類型. 這需要DNA標記染料, 由紫色染料和熒石粉合成而來
+
+genetics.machine.labMachine.incubator=恒溫箱
+genetics.machine.labMachine.incubator.info=恒溫箱的作用是使用特定液體和物品來進行恒溫,確保細菌能夠在理想的環境下快速增殖.
+
+genetics.machine.labMachine.acclimatiser=氣候改造器
+
+genetics.machine.advMachine.splicer=Splicer
+genetics.machine.advMachine.splicer.info=Splicer是一台異常強大的機器,可將基因直接植入個體之中.雖然工作迅速,但它卻是個電老虎.
+
+
+
+
+genetics.item.sequence=DNA序列
+
+genetics.item.sequence.0=極弱
+genetics.item.sequence.1=弱
+genetics.item.sequence.2=略弱
+genetics.item.sequence.3=中等
+genetics.item.sequence.4=強
+genetics.item.sequence.5=極強

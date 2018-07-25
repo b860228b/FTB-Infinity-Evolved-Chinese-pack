@@ -1,0 +1,63 @@
+﻿### Solar Expansion English Localization File ###
+### Author: Shad0wB1ade ###
+
+itemGroup.solarexpansion=太阳能膨胀
+
+item.solarexpansion:steelIngot.name=钢锭
+item.solarexpansion:steelNugget.name=钢粒
+item.solarexpansion:lapisShard.name=青金石碎片
+item.solarexpansion:photovoltaicCell.name=光伏电池
+item.solarexpansion:solarCoreLeadstone.name=铅石太阳能核心
+item.solarexpansion:solarCoreHardened.name=硬化太阳能核心
+item.solarexpansion:solarCoreRedstone.name=红石太阳能核心
+item.solarexpansion:solarCoreResonant.name=谐振太阳能核心
+item.solarexpansion:solarCoreAdvanced.name=高级太阳能核心
+item.solarexpansion:solarCoreUltimate.name=终级太阳能核心
+item.solarexpansion:solarHelmetLeadstone.name=铅石太阳能头盔
+item.solarexpansion:solarHelmetHardened.name=硬化太阳能头盔
+item.solarexpansion:solarHelmetRedstone.name=红石太阳能头盔
+item.solarexpansion:solarHelmetResonant.name=谐振太阳能头盔
+item.solarexpansion:solarHelmetAdvanced.name=高级太阳能头盔
+item.solarexpansion:solarHelmetUltimate.name=终级太阳能头盔
+
+tile.solarexpansion:solarPanelLeadstone.name=铅石太阳能板
+tile.solarexpansion:solarPanelHardened.name=硬化太阳能板
+tile.solarexpansion:solarPanelRedstone.name=红石太阳能板
+tile.solarexpansion:solarPanelResonant.name=谐振太阳能板
+tile.solarexpansion:solarPanelAdvanced.name=高级太阳能板
+tile.solarexpansion:solarPanelUltimate.name=终级太阳能板
+
+info.solarexpansion.solarpanel.currentGeneration=目前发电量
+info.solarexpansion.solarpanel.generation=发电量
+info.solarexpansion.solarpanel.transfer=输出
+info.solarexpansion.solarpanel.capacity=容量
+
+info.solarexpansion.items.components=这只是一个合成元件。
+
+info.solarexpansion.shiftkey.hold=按住
+info.solarexpansion.shiftkey=Shift
+info.solarexpansion.shiftkey.down=了解详情
+
+info.solarexpansion.controlkey.hold=按住
+info.solarexpansion.controlkey=Control
+info.solarexpansion.controlkey.down=了解功率等级
+
+achievement.pageName=太阳能膨胀
+
+achievement.solarPanelLeadstoneAch=Basic Power.
+achievement.solarPanelLeadstoneAch.desc=放置一个铅石太阳能板。
+
+achievement.solarPanelHardenedAch=Powering Up.
+achievement.solarPanelHardenedAch.desc=放置一个硬化太阳能板。
+
+achievement.solarPanelRedstoneAch=MORE POWER.
+achievement.solarPanelRedstoneAch.desc=放置一个红石太阳能板。
+
+achievement.solarPanelResonantAch=Power Overload.
+achievement.solarPanelResonantAch.desc=放置一个谐振太阳能板。
+
+achievement.solarPanelAdvancedAch=Power Levels Critical.
+achievement.solarPanelAdvancedAch.desc=放置一个高级太阳能板。
+
+achievement.solarPanelUltimateAch=IT'S OVER 9000!
+achievement.solarPanelUltimateAch.desc=放置一个终级太阳能板。

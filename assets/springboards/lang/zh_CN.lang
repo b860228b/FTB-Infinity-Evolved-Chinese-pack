@@ -1,0 +1,7 @@
+tile.weakSpringBlock.name=弱弹簧
+tile.mediumSpringBlock.name=中弹簧
+tile.strongSpringBlock.name=强弹簧
+
+itemGroup.tabSpringboards=弹簧板
+
+springboards.msg.boing=Boing!

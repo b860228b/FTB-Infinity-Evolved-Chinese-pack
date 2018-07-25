@@ -1,0 +1,509 @@
+#Chinese localization for ExtraTic
+
+#CreativeTabs
+itemGroup.extratic.blocks=ExtraTiC方块
+itemGroup.extratic.buckets=ExtraTiC桶
+itemGroup.extratic.items=ExtraTiC物品
+itemGroup.extratic.parts=ExtraTiC部件
+
+# Fluids (for smelteries)
+
+# Mekanism
+fluid.refined.glowstone.molten=熔融强化荧石
+fluid.osmium.molten=熔融锇
+
+# Funstuff
+fluid.pokefennium.molten=熔融铁血
+fluid.fairy.molten=熔融精灵
+fluid.red.aurum.molten=熔融赤金
+
+# ThaumicIntegration / ThermalSmeltery 
+fluid.potato.soup=马铃薯汤
+fluid.drulloy.molten=熔融朱氏合金
+
+# Galicticraft
+fluid.desh.molten=熔融戴斯
+
+# Generic
+fluid.dark.steel.molten=熔融玄钢
+fluid.adamantine.molten=熔融金刚
+fluid.zinc.molten=熔融锌
+fluid.brass.molten=熔融黄铜
+
+# Blue power
+fluid.blue.alloy.molten=熔融蓝石合金
+fluid.infused.teslatite.liquid=液态充能蓝石
+fluid.purple.alloy.molten=熔融紫晶合金
+fluid.red.alloy.molten熔融红色合金
+fluid.teslatite.liquid=液态蓝石
+fluid.tungsten.molten=熔融钨
+
+# EnderIO
+fluid.conductive.iron.molten=熔融导电铁
+fluid.electrical.steel.molten=熔融磁钢
+fluid.energetic.alloy.molten=熔融充能合金
+fluid.phased.gold.molten=熔融脉冲合金
+fluid.phased.iron.molten=熔融脉冲铁
+fluid.redstone.alloy.molten=熔融红石合金
+fluid.silicon.liquid=熔融硅
+fluid.soularium.molten=熔融魂金
+
+# Botaina
+fluid.manasteel.molten=熔融魔钢
+fluid.terrasteel.molten=熔融泰拉钢
+fluid.elementium.molten=熔融源质钢
+
+# Thaumcraft
+fluid.voidmetal.molten=熔融虚空金属
+
+# Big Reactors
+fluid.blutonium.molten=熔融蓝钚
+fluid.ludicrite.molten=熔融纯镥
+
+# ExtraUtils
+fluid.bedrockium.molten=熔融基岩
+
+# ProgAuto
+fluid.witheriron.molten=熔融凋零铁
+
+# Nevermine 2: Advent of Ascenion
+fluid.amethyst.molten=熔融紫晶
+fluid.emberstone.molten=熔融余烬石
+fluid.jade.molten=熔融翡翠
+fluid.limonite.molten=熔融褐铁
+fluid.rosite.molten=熔融硫铜锑
+fluid.sapphire.molten=熔融蓝宝石
+fluid.skeletal.molten=熔融骷髅
+
+fluid.baronyte.molten=熔融硫铁钾
+fluid.blazium.molten=熔融虚空
+fluid.elecanium.molten=熔融钛
+fluid.ghastly.molten=熔融阴森
+fluid.ghoulish.molten=熔融恐惧
+fluid.lyon.molten=熔融莱昂钢
+fluid.mystite.molten=熔融奥秘
+fluid.varsium.molten=熔融镁
+
+# Immersive Engineering
+fluid.constantan.molten=熔融康铜
+
+# Fluids (for NEI and the fluid blocks in the world)
+# Mekanism
+tile.molten.refined.glowstone=熔融强化荧石
+tile.molten.osmium=熔融锇
+
+# Funstuff
+tile.molten.pokefennium.name=熔融铁血
+tile.molten.fairy.name=熔融精灵
+tile.molten.red.aurum.name=熔融赤金
+
+# ThaumicIntegration / ThermalSmeltery 
+tile.potato.soup.name=马铃薯汤
+tile.molten.drulloy.name=熔融朱氏合金
+
+# Galicticraft
+tile.molten.desh.name=熔融戴斯
+
+# Generic
+tile.molten.dark.steel.name=熔融玄钢
+tile.molten.adamantine.name=熔融金刚
+tile.molten.zinc.name=熔融锌
+tile.molten.brass.name=熔融黄铜
+
+# Bluepower
+tile.molten.blue.alloy.name=熔融蓝石合金
+tile.liquid.infused.teslatite.name=液态充能蓝石
+tile.molten.purple.alloy.name=熔融紫晶合金
+tile.molten.red.alloy.name=熔融红色合金
+tile.liquid.teslatite.name=液态蓝石
+tile.molten.tungsten.name=熔融钨
+
+# EnderIO
+tile.molten.conductive.iron.name=熔融导电铁
+tile.molten.electrical.steel.name=熔融磁钢
+tile.molten.energetic.alloy.name=熔融充能合金
+tile.molten.phased.gold.name=熔融脉冲合金
+tile.molten.phased.iron.name=熔融脉冲铁
+tile.molten.redstone.alloy.name=熔融红石合金
+tile.liquid.silicon.name=熔融硅
+tile.molten.soularium.name=熔融魂金
+
+# Botania
+tile.molten.manasteel.name=熔融魔钢
+tile.molten.terrasteel.name=熔融泰拉钢
+tile.molten.elementium.name=熔融源质钢
+
+# Thaumcraft
+tile.molten.voidmetal.name=熔融虚空金属
+
+# Big Reactors
+tile.molten.blutonium.name=熔融蓝钚
+tile.molten.ludicrite.name=熔融纯镥
+
+# ExtraUtils
+tile.molten.bedrockium.name=熔融基岩
+
+# ProgAuto
+tile.molten.witheriron.name=熔融凋零铁
+
+# Nevermine 2: Advent of Ascenion
+tile.molten.amethyst.name=熔融紫晶
+tile.molten.emberstone.name=熔融余烬石
+tile.molten.jade.name=熔融翡翠
+tile.molten.limonite.name=熔融褐铁
+tile.molten.rosite.name=熔融硫铜锑
+tile.molten.sapphire.name=熔融蓝宝石
+tile.molten.skeletal.name=熔融骷髅
+
+tile.molten.baronyte.name=熔融硫铁钾
+tile.molten.blazium.name=熔融虚空
+tile.molten.elecanium.name=熔融钛
+tile.molten.ghastly.name=熔融阴森
+tile.molten.ghoulish.name=熔融恐惧
+tile.molten.lyon.name=熔融莱昂钢
+tile.molten.mystite.name=熔融奥秘
+tile.molten.varsium.name=熔融镁
+
+# Immersive Engineering
+tile.molten.constantan.name=熔融康铜
+
+# Buckets of molten metals
+# Mekanism
+item.extratic.bucket.filled.refined.glowstone.molten.name=桶装熔融强化荧石
+item.extratic.bucket.filled.osmium.molten.name=桶装熔融锇
+
+# Funstuff
+item.extratic.bucket.filled.pokefennium.molten.name=桶装熔融铁血
+item.extratic.bucket.filled.fairy.molten.name=桶装熔融精灵
+item.extratic.bucket.filled.red.aurum.molten.name=桶装熔融赤金
+
+# ThaumicIntegration / ThermalSmeltery 
+item.extratic.bucket.filled.potato.soup.name=桶装马铃薯汤
+item.extratic.bucket.filled.drulloy.molten.name.name=桶装熔融朱氏合金
+
+# Galicticraft
+item.extratic.bucket.filled.desh.molten.name=桶装熔融戴斯
+
+# Generic
+item.extratic.bucket.filled.dark.steel.molten.name=桶装熔融玄钢
+item.extratic.bucket.filled.adamantine.molten.name=桶装熔融金刚
+item.extratic.bucket.filled.zinc.molten.name=桶装熔融锌
+item.extratic.bucket.filled.brass.molten.name=桶装熔融黄铜
+
+# Blue power
+item.extratic.bucket.filled.blue.alloy.molten.name=桶装熔融蓝石合金
+item.extratic.bucket.filled.infused.teslatite.liquid.name=桶装液态充能蓝石
+item.extratic.bucket.filled.purple.alloy.molten.name=桶装熔融紫晶合金
+item.extratic.bucket.filled.red.alloy.molten.name=桶装熔融红色合金
+item.extratic.bucket.filled.teslatite.liquid.name=桶装液态蓝石
+item.extratic.bucket.filled.tungsten.molten.name=桶装熔融钨
+
+# EnderIO
+item.extratic.bucket.filled.conductive.iron.molten.name=桶装熔融导电铁
+item.extratic.bucket.filled.electrical.steel.molten.name=桶装熔融磁钢
+item.extratic.bucket.filled.energetic.alloy.molten.name=桶装熔融充能合金
+item.extratic.bucket.filled.phased.gold.molten.name=桶装熔融脉冲合金
+item.extratic.bucket.filled.phased.iron.molten.name=桶装熔融脉冲铁
+item.extratic.bucket.filled.redstone.alloy.molten.name=桶装熔融红石合金
+item.extratic.bucket.filled.silicon.liquid.name=桶装熔融硅
+item.extratic.bucket.filled.soularium.molten.name=桶装熔融魂金
+
+# Botaina
+item.extratic.bucket.filled.manasteel.molten.name=桶装熔融魔钢
+item.extratic.bucket.filled.terrasteel.molten.name=桶装熔融泰拉钢
+item.extratic.bucket.filled.elementium.molten.name=桶装熔融源质钢
+
+# Thaumcraft
+item.extratic.bucket.filled.voidmetal.molten.name=桶装熔融虚空金属
+
+# Big Reactors
+item.extratic.bucket.filled.blutonium.molten.name=桶装熔融蓝钚
+item.extratic.bucket.filled.ludicrite.molten.name=桶装熔融纯镥
+
+# ExtraUtils
+item.extratic.bucket.filled.bedrockium.molten.name=桶装熔融基岩
+
+# ProgAuto
+item.extratic.bucket.filled.witheriron.molten.name=桶装熔融凋零铁
+
+# Nevermine 2: Advent of Ascenion
+item.extratic.bucket.filled.amethyst.molten.name=桶装熔融紫晶
+item.extratic.bucket.filled.emberstone.molten.name=桶装熔融余烬石
+item.extratic.bucket.filled.jade.molten.name=桶装熔融翡翠
+item.extratic.bucket.filled.limonite.molten.name=桶装熔融褐铁
+item.extratic.bucket.filled.rosite.molten.name=桶装熔融硫铜锑
+item.extratic.bucket.filled.sapphire.molten.name=桶装熔融蓝宝石
+item.extratic.bucket.filled.skeletal.molten.name=桶装熔融骷髅
+
+item.extratic.bucket.filled.baronyte.molten.name=桶装熔融硫铁钾
+item.extratic.bucket.filled.blazium.molten.name=桶装熔融虚空
+item.extratic.bucket.filled.elecanium.molten.name=桶装熔融钛
+item.extratic.bucket.filled.ghastly.molten.name=桶装熔融阴森
+item.extratic.bucket.filled.ghoulish.molten.name=桶装熔融恐惧
+item.extratic.bucket.filled.lyon.molten.name=桶装熔融莱昂钢
+item.extratic.bucket.filled.mystite.molten.name=桶装熔融奥秘
+item.extratic.bucket.filled.varsium.molten.name=桶装熔融镁
+
+# Immersive Engineering
+item.extratic.bucket.filled.constantan.molten.name=桶装熔融康铜
+
+# Materials (for toolparts)
+# Metallurgy Base
+material.angmallen=金铁
+material.damascus.steel=大马士革钢
+material.hepatizon=幽魂结晶
+
+# Metallurgy Nether
+material.amordrine=魔石
+material.amordrine.ability=生命偷取
+material.ceruclase=暗影秘银
+material.ceruclase.ability=缓慢
+material.ignatius=伊格内休斯
+material.ignatius.ability=燃烧 I
+material.inolashite=暗影秘银蓝金
+material.inolashite.ability=剧毒 I
+material.kalendrite=幽冥魂石
+material.midasium=溶火金
+material.sanguinite=狱炎石
+material.sanguinite.ability=凋零 I
+material.shadow.iron=暗影铁
+material.shadow.iron.ability=虚弱 I
+material.shadow.steel=暗影钢
+material.shadow.steel.ability=虚弱 II
+material.vulcanite=熔岩结晶
+material.vulcanite.ability=燃烧 II
+material.vyroxeres=幽冥剧毒晶
+material.vyroxeres.ability=剧毒 I
+
+# Metallurgy Fantasy
+material.astral.silver=星银
+material.atlarus=金钻
+material.black.steel=黑钢
+material.carmot=耀金
+material.celenegil=幽冥毒晶
+material.deep.iron=深铁
+material.haderoth=幻铜
+material.orichalcum=奥利哈尔钢
+material.oureclase=地晶
+material.prometheum=幻金
+material.quicksilver=银钻
+material.tartarite=熔火石
+
+# Metallurgy Ender
+material.desichalkos=虚空魂石
+material.eximite=虚空石
+
+# Natura
+material.bloodwood=血木
+material.darkwood=黑暗木
+material.fusewood=熔融木
+material.ghostwood=幽魂木
+material.nether.quartz=下界石英
+
+# Mekanism
+material.refined.glowstone=强化萤石
+material.osmium=锇
+
+# Fun stuff
+material.pokefennium=铁血
+material.fairy=精灵
+material.red.aurum=赤金
+
+# Applied energistics
+material.certus.quartz=赛特斯石英
+
+# Biomes o' plenty
+material.ender.amethyst=末影紫晶
+
+# Botania
+material.manasteel=魔钢
+material.terrasteel=泰拉钢
+material.elementium=源质钢
+
+# Galacticraft
+material.desh=戴斯
+
+# Simple Ores Core
+material.adamantium=艾德曼合金
+material.mythril=玄银
+material.onyx=缟玛瑙
+
+# Simple Ores Fusion
+material.sinisite=逆银
+material.thyrium=鍪银
+
+# Simple Ores Netherrock
+material.argonite=阿格尼特
+material.ashstone=凝灰岩
+material.dragonstone=龙石
+material.fyrite=法拉特
+material.illumenite=伊鲁门尼特
+material.malachite=马拉切特
+
+# TwilightForest
+material.fiery=炽铁
+material.ironwood=铁树
+material.knightmetal=骑士金属
+material.steelleaf=钢叶
+
+# Generic Material
+material.amethyst=紫水晶
+material.peridot=橄榄石
+material.ruby=红宝石
+material.sapphire=蓝宝石
+material.dark.steel=玄钢
+material.brass=黄铜
+material.electrum=琥珀金
+material.platinum=铂
+material.silver=银
+material.adamantine=金刚
+material.mithril=秘银
+material.glue=凝胶
+material.endstone=末地石
+
+# Oddmod
+material.kroostyl=克鲁斯蒂
+
+# Thaumic Integration
+material.drulloy=朱氏合金
+
+# Erebus
+material.jade=绿玉
+
+# Thaumcraft
+material.void.metal=虚空金属
+
+# Better Storage
+material.cardboard=纸板
+
+# RotaryCraft
+material.hsla.steel=HSLA钢
+
+# Gany's End
+material.endium=末金
+
+# Draconic Evolution
+material.draconium=龙元素
+material.awakened.draconium=觉醒龙元素
+
+# Big Reactors
+material.yellorium=黄铀
+material.cyanite=蓝晶
+material.blutonium=蓝钚
+material.ludicrite=纯镥
+
+# ExtraUtils
+material.bedrockium=基岩
+material.bedrockium.ability=无穷次使用...可能有点用处
+
+# Pam's Harvestcraft
+material.onion=催泪
+
+# Progressive Automation
+material.witheriron=凋零铁
+material.witheriron.ability=来自凋灵的铁
+
+# Thermal Foundation
+material.enderium=末影
+material.signalum=信素
+material.lumium=流明
+
+# Nevermine 2: Advent of Ascenion
+material.bloodstone=血石
+material.crystalitestone=微晶石
+material.emberstone=余烬石
+material.limonite=褐铁
+material.rosite=硫铜锑
+material.skeletal=骷髅
+
+# Immersive Engineering
+material.constantan=康铜
+
+# Toolparts
+part.arrowhead=@material@箭头
+part.axe.head=@material@斧刃
+part.battle.sign=@material@牌板
+part.binding=@material@绑定结
+part.chisel.head=@material@凿刃
+part.chunk=@material@碎块
+part.crossbar=@material@十字柄
+part.excavator.head=@material@开掘铲头
+part.frypan.head=@material@盘
+part.full.guard=@material@大型护手
+part.hammer.head=@material@锤头
+part.knife.blade=@material@刀刃
+part.large.guard=@material@宽护手
+part.large.sword.blade=@material@宽剑刃
+part.largeplate=@material@大板
+part.lumberaxe.head=@material@宽斧刃
+part.medium.guard=@material@护手
+part.pickaxe.head=@material@镐头
+part.scythe.head=@material@镰刀刃
+part.shovel.head=@material@铲头
+part.sword.blade=@material@剑刃
+part.toolrod=@material@手柄
+part.toughbind=@material@坚韧绑定结
+part.toughrod=@material@坚韧手柄
+
+# Tinkers Weaponary parts
+part.shuriken=@material@回旋镖
+part.bow.limb=@material@弓臂
+part.crossbow.limb=@material@弩臂
+part.crossbow.body=@material@弩身
+part.bolt=@material@弩箭
+
+# Specific part material localization example:
+#part.toolrod.pokefennium=Pokefenn's Limb
+#part.large.sword.blade.black.steel=Black Steel Large Sword Blade
+
+# General part material localization example:
+#part.material.fairy=Magical Pinky
+#part.material.ender.amethyst=Ender Amethyst
+
+# Specific Tool material localization example:
+# (handled by tinkers, English material name, no spaces and all lower case)
+#tool.javelin.redaurum=Red Harpoon
+#tool.shovel.shadowiron=Shadow Iron Shovel
+
+# Blocks and ingots
+tile.fairy.block.name=精灵方块
+tile.pokefennium.block.name=铁血方块
+tile.red.aurum.block.name=赤金方块
+
+item.fairy.ingot.name=精灵锭
+item.pokefennium.ingot.name=铁血锭
+item.red.aurum.ingot.name=赤金锭
+item.drulloy.ingot.name=朱氏合金锭
+
+# Gears
+# Botania
+item.gear.manasteel.name=魔钢齿轮
+item.gear.terrasteel.name=泰拉钢齿轮
+item.gear.elementium.name=源质钢齿轮
+
+# Thaumcraft
+item.gear.void.metal.name=虚空金属齿轮
+
+# Big Reactors
+item.gear.yellorium.name=黄铀齿轮
+item.gear.cyanite.name=蓝晶齿轮
+item.gear.blutonium.name=蓝钚齿轮
+item.gear.ludicrite.name=纯镥齿轮
+
+# ExtraUtils
+item.gear.bedrockium.name=基岩齿轮
+
+# Pam's Harvestcraft
+item.gear.onion.name=催泪齿轮
+
+# Progressive Automation
+item.gear.witheriron.name=凋零铁齿轮
+
+#Arc Smeltery
+tile.arc.smeltery.controller.name=电弧炉控制器
+tile.arc.smeltery.drain.name=电弧炉排液口
+tile.arc.smeltery.brick.name=耐火砖
+tile.arc.smeltery.socket.name=电弧炉插座
+
+#Auto Smeltery
+tile.auto.smeltery.controller.name=自动冶炼厂控制器

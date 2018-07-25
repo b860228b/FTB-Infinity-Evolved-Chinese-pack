@@ -1,0 +1,58 @@
+book.aroma1997sdimension:name=Aroma1997的维度世界使用手册
+
+book.aroma1997sdimension:chapter.general=一般资讯
+book.aroma1997sdimension:chapter.blocks=方块资讯
+book.aroma1997sdimension:chapter.items=物品资讯
+book.aroma1997sdimension:chapter.setupPortal=设置好传送门
+book.aroma1997sdimension:chapter.setupMiner=设置好矿工
+
+
+book.aroma1997sdimension:introduction=欢迎来到你新的Aroma1997的维度世界使用手册！本手册涵盖了本模组的所有方块及其功能。
+
+
+book.aroma1997sdimension:general.1=Aroma1997的维度世界是一款模組，让你创建一个能夠平静地进行挖掘的维度，而不用担心采石洞会破坏地形。
+book.aroma1997sdimension:general.2=本使用手册不会在版本之间自动更新。要手动更新它，只需将其放入合成格即可。
+book.aroma1997sdimension:general.3=如果你不知道箱子，包或升级的合成表，请安装NEI。这里不会有合成表显示。
+
+book.aroma1997sdimension:blocks.1=本书的这一部分列出了模組中的方块和它们各自的功能。
+
+book.aroma1997sdimension:blocks.portalFrame=传送门框架：此方块是出入采矿维度的传送门的结构方块。
+book.aroma1997sdimension:blocks.stickyOre=粘稠矿：你有没有想过和平的获取粘液球的方法？那么，这就是解决方案。粘稠矿相当罕见，但如果你挖掘它，你会获到粘液球。这个矿石支持时运附魔。
+book.aroma1997sdimension:blocks.minerCore=矿工核心：这是矿工最重要的方块。它包含共振量子处理器，通过同时使用结构中所有矿工方块来控制采矿过程。
+book.aroma1997sdimension:blocks.filler=矿工填充方块：这是矿工的主要结构部件。也用于合成其他物品。
+book.aroma1997sdimension:blocks.generator=矿工发电机：如果你刚刚起步，或者你没有任何发电装备模组，那么这个方块将会为你的矿工供能，藉由燃烧所有能在熔炉内燃烧的东西。只需右键点击它打开它的GUI并加入燃料。
+book.aroma1997sdimension:blocks.miner=矿工方块：为你挖矿！另一个矿工结构部件。
+book.aroma1997sdimension:blocks.interface=矿工输出接口：该方块会将矿工挖的所有东西输出到容器或管道中。必须设置在结构的外部。
+book.aroma1997sdimension:blocks.enchant=矿工附魔接口：如果你想升级你的矿工，这就是你必须放附魔书地方。每个方块只接受一个附魔。
+book.aroma1997sdimension:blocks.rf=矿工能量接受器：该方块接收RF能量并为矿工提供动力。
+
+book.aroma1997sdimension:items.1=本章节列出了模組中的物品。
+
+book.aroma1997sdimension:items.portalIgniter=多功能雕刻刀：此物品用于制作和点亮采矿世界的传送门。
+book.aroma1997sdimension:items.dimensionChanger=维度改变器：如果你迷路在采矿世界或者纯粹只是懒，只要手持这个物品右键点击即可瞬间传送去/回采矿世界。
+
+book.aroma1997sdimension:setupPortal.1=You are probably wondering how can you get to the Mining World. It's very simple! Craft the Portal Blocks, arrange them in the same shape you would make a Nether Portal, and ignite the bottom blocks with the Mining Multitool.
+book.aroma1997sdimension:setupPortal.2=If the Portal does not form, fill the inside of the structure with any blocks, break them, and then light the Portal again WITHOUT stepping into the structure.
+
+book.aroma1997sdimension:setupMiner.1=If you are tired of mining manually, this part of the book will tell you how to set up your very own Aromic Miner!
+book.aroma1997sdimension:setupMiner.2=For the most basic version of the miner, you have to get these blocks: 1x Miner Core, 1x Miner Generator, 1x Miner Block, 1x Miner Export Interface, and 14x Miner Filler Blocks. You need to arrange these blocks in a 3x3x2 structure with the Miner Core in the bottom middle.
+book.aroma1997sdimension:setupMiner.3=If you have done everything correctly, the miner should turn green. Now you can place some fuel in the Miner Generator, place a chest next to the Export Interface, and start Mining!
+book.aroma1997sdimension:setupMiner.4=Note: The Miner mines everything below it and replaces everything except air with Cobblestone. So if you don't want to destroy your base, don't put the Miner above it.
+book.aroma1997sdimension:setupMiner.5=The Miner doesn't cause any block updates, so don't worry if your Nether Portal gets in the way. It'll mine the Obsidian, but leave the Portal fully functional.
+
+
+tile.aroma1997sdimension:portalFrame.name=传送门框架
+tile.aroma1997sdimension:stickyOre.name=粘稠矿
+tile.aroma1997sdimension:miningPortal.name=采矿传送门
+aroma1997sdimension:miner.minerCore.name=矿工核心
+aroma1997sdimension:miner.filler.name=矿工填充方块
+aroma1997sdimension:miner.generator.name=矿工发电机
+aroma1997sdimension:miner.miner.name=矿工方块
+aroma1997sdimension:miner.interface.name=矿工输出接口
+aroma1997sdimension:miner.enchant.name=矿工附魔接口
+aroma1997sdimension:miner.rf.name=矿工能量接受器
+
+item.aroma1997sdimension:portalIgniter.name=多功能雕刻刀
+item.aroma1997sdimension:dimensionChanger.name=维度改变器
+
+itemGroup.aroma1997sdimension:creativeTabDW=Aroma1997的维度世界
