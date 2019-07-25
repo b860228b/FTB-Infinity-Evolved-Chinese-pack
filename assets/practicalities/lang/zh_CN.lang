@@ -1,0 +1,58 @@
+item.magneticNorth.name=磁北
+item.magneticSouth.name=磁南
+item.radiantCore.name=辐射核心
+item.itemMagnet.name=物品磁铁
+item.rareMagnet.name=稀土物品磁铁
+item.radiantCharger.name=辐射充能器
+item.machineCore.name=机械核心
+item.shimmeringStar.name=闪烁之星
+item.luminusRod.name=Luminus之棒
+item.blockMover.name=物质搬运器
+item.diamondShard.name=钻石碎片
+item.netherStarSword.name=Imbued 剑
+item.netherStarPick.name=Imbued 工具
+item.diamondRod.name=Imbued 之棍
+item.netherStarCore.name=Imbued 下界之星
+item.logicMatrix.name=逻辑矩阵
+item.sitisStick.name=Sitis之棒
+item.voidBucket.name=虚空桶
+item.memoryCard.name=记忆卡
+item.siliconDust.name=硅
+item.nomoTron.name=Nom-o-tron
+item.machinePlate.name=机械板
+item.hammer.name=锤子
+item.hardIronDust.name=硬化铁粉
+item.hardIronNugget.name=硬化铁粒
+item.hardIronIngot.name=硬化铁锭
+item.lightDust.name=光之尘
+item.crystalizedLight.name=光之结晶
+item.filterCard1.name=过滤卡 (L1)
+item.filterCard2.name=过滤卡 (L2)
+item.filterCard3.name=过滤卡 (L3)
+item.digitalLocker.name=分区板条箱
+item.precisionTNT.name=Precision TNT
+item.soulAspect.name=灵魂要素
+item.soulCrystal.name=灵魂水晶
+item.spawnerAlteration.name=生怪砖改造
+
+tile.invisibleTorch.name=Shimmering Spot
+tile.smoothGlowstone.name=光滑荧石
+tile.compressedChest.name=压缩箱子
+tile.refinery.name=精炼厂
+tile.diamondObsidian.name=镶钻黑曜石
+tile.digitalLocker.name=分区板条箱
+tile.precisionTNT.name=Precision TNT
+tile.gravitatem.name=磁性怪物操纵器
+tile.polarityNegator.name=极性否定器
+
+tile.vaultPart.0.name=Vault Wall
+tile.vaultPart.1.name=Vault Access Port
+tile.vaultPart.2.name=Vault Controller
+tile.vaultPart.3.name=Vault Storage
+
+tile.witherFarmPart.0.name=凋零方块
+tile.witherFarmPart.1.name=凋零杀手
+
+entity.compressedChestEntity.name=压缩箱子
+
+itemGroup.tabPracticalities=Practicalities

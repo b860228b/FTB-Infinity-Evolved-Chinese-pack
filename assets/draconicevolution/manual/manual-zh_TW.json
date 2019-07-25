@@ -1,0 +1,1156 @@
+[
+  {
+    "name":"tile.draconicevolution:draconiumOre",
+    "images":[],
+    "content":
+    [
+      "對龍之進化的基礎.",
+      "這種礦石在地圖第8層以下生成，但是都是極其罕見. ",
+      "在主島和彗星中隨機產生, 你可以找到更大的數量.",
+      "開采1-3塊龍礦時. 時運三附魔可以增加4-12的數量."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumDust",
+    "images":[],
+    "content":
+    [
+      "挖掘龍礦會掉落龍塵，龍塵可以熔煉成龍錠."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumBlend",
+    "images":[],
+    "content":
+    [
+      "這個物品現在已經沒用，將會在1.0.2刪除。如果你有你應該冶煉成龍錠 更新到1.0.2之前仍然有."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumIngot",
+    "images":[],
+    "content":
+    [
+      "將龍塵放到熔爐裏燒一燒，用於合成龍之工具",
+      "[c]item.draconicevolution:draconiumIngot:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:draconium",
+    "nameL":"龍塊",
+    "meta":0,
+    "images":[],
+    "content":
+    [
+      "一個龍之能量方塊.",
+      "[c]tile.draconicevolution:draconium:0",
+      "這個方塊很硬，可以抵禦爆炸，甚至連雕零也無法破壞。漢化組發現這物品可以無限刷的BUG！你覺得我會告訴你嗎？"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:draconium",
+    "nameL":"充能龍塊",
+    "meta":2,
+    "images":[],
+    "content":
+    [
+      "用於龍的覆活儀式和覺醒儀式，將一個龍塊放進擁有1億能量的能量註入器後你就會獲得一個充能龍塊！這可能需要很長時間。",
+      "[c]tile.draconicevolution:draconium:2"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicCore",
+    "images":[],
+    "content":
+    [
+      "這是基礎的龍芯，用於制作大部分基礎的機器和工具.",
+      "[c]item.draconicevolution:draconicCore:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernCore",
+    "images":[],
+    "content":
+    [
+      "這是一個高級的龍芯，用於制作更高級的裝備.",
+      "[c]item.draconicevolution:wyvernCore:0"
+    ]
+  },
+  {
+    "name":"info.工具配置界面",
+    "images":[],
+    "content":
+    [
+      "該界面用於配置最強大的龍之工具和盔甲.",
+      "打開這個圖形用戶界面的默認鍵是'C'",
+      "當你打開這個圖形用戶界面時，你會看到所有的物品在你的庫存。可配置的物品將被高亮顯示。當你點擊一個突出的項目，你會看到一個可調整的設置列表，具體到該項目。",
+      "你也可以使用這個GUI應用和刪除的魔法。在該項目的選項列表中有一個庫存按鈕。這將打開一個新的圖形用戶界面，您將訪問您的庫存。",
+      "魔法槽可以找到合適的。如果項目有任何額外的物品如閉塞濾波器為龍的工具這些槽將在GUI上顯示。"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernPickaxe",
+    "images":[],
+    "content":
+    [
+      "厭倦了你緩慢的挖掘速度，總是使用鉆石制品？是時候升級了！雙足飛龍工具使用RF能量，效率高！而且永遠用不壞！",
+      "所有的龍之鎬都可以快速挖掘、範圍挖掘和單方塊挖掘",
+      "挖掘範圍：你可以調整工具的挖掘範圍，1X1和3X3，可升級",
+      "範圍挖掘安全模式：很安全 開啟該模式後，如果工具挖掘範圍不是單個方塊的話，安全模式就會檢測所挖掘的對象，然後該範圍內的方塊只有被挖掘的方塊被挖掘",
+      "[c]item.draconicevolution:wyvernPickaxe:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernShovel",
+    "images":[],
+    "content":
+    [
+      "厭倦了你緩慢的挖掘速度，總是使用鉆石制品？是時候升級了！雙足飛龍工具使用RF能量，效率極高！而且永遠用不壞！",
+      "所有的鏟子都可以快速挖掘、範圍挖掘和單方塊挖掘",
+      "挖掘範圍：允許您調整工具的挖掘範圍，1X1和3X3，更高級的鎬字也會有更大的挖掘範圍，可升級",
+      "範圍挖掘安全模式：很安全 開啟該模式後，如果工具挖掘範圍不是單個方塊的話，安全模式就會檢測所挖掘的對象，然後該範圍內的方塊只有被挖掘的方塊被挖掘",
+      "[c]item.draconicevolution:wyvernShovel:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernSword",
+    "images":[],
+    "content":
+    [
+      "普通的武器不夠好？使用龍力，你已經找到一種方法來強化普通的鉆石劍，雙足飛龍劍！",
+      "+20攻擊傷害，可升級",
+      "+10% 生物生命值",
+      "3×3攻擊範圍，可升級",
+      "[c]item.draconicevolution:wyvernSword:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernBow",
+    "images":[],
+    "content":
+    [
+      "尋找一個更強大的弓與一些奇特的功能？這個給你。",
+      "可調整的設置：",
+      "-[基本傷害] 箭頭擊中目標的速度越大，傷害加成越大。",
+      "-[箭頭速度調整器] 原版弓的數值是+0。",
+      "-[自動開火] 弓會在被拉滿以後自動射擊。",
+      "-[爆炸性的力量] 和它的字面意思一樣！",
+      "-[放大] 可以讓你放大來射得更準。",
+      "每射一次所消耗的RF取決於設置中的攻擊速度和爆炸力量的倍數。這意味著只要把所有設置調到最大需要指數型增長的更多的能量。",
+      "能源容量，拉弓速度，箭頭速度和基本傷害都可以升級。",
+      "這把弓比原版的弓精確十幾倍。意味著箭頭會射的比你瞄準的地方更近，箭頭在飛行過程中不會偏移太多。",
+	  
+      "[c]item.draconicevolution:wyvernBow:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumFluxCapacitor",
+    "nameL":"雙足飛龍通量電容器",
+    "meta":0,
+    "images":[],
+    "content":
+    [
+      "厭倦了你的工具和護甲的能量在你最需要它們的時候,你已經找到了如何創建一個物品能夠存儲大量的能量,將它轉移到你的工具和護甲,因為工具和護甲需要它.",
+      "[c]item.draconicevolution:draconiumFluxCapacitor:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumEnergyCore",
+    "nameL":"雙足飛龍的能量核心",
+    "meta":0,
+    "images":[],
+    "content":
+    [
+      "這是個能量儲存器的材料.",
+      "[c]item.draconicevolution:draconiumFluxCapacitor:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:magnet",
+    "nameL":"物品錯位器",
+    "meta":1,
+    "images":[],
+    "content":
+    [
+      "物品錯位器",
+      "你發現了把獨特的能量和錯位器集合起來會創造出一個能輕松撿起掉在地上的物品的小磁鐵。",
+      "[c]item.draconicevolution:magnet:0",
+      "",
+      "覺醒的物品錯位器",
+      "進一步的測試揭示出用覺醒龍力和一點點的能量可以大大的改進它的範圍和功效。",
+      "[c]item.draconicevolution:magnet:1"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernHelm",
+    "images":[],
+    "content":
+    [
+      "比鉆石更堅硬，現在你能夠承受住更多傷害.",
+      "火焰保護.",
+      "+20 基本護甲",
+      "[c]item.draconicevolution:wyvernHelm:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernChest",
+    "images":[],
+    "content":
+    [
+      "註入龍力的盔甲，大大增強了防禦力.",
+      "火焰保護.",
+      "+80 基本護甲",
+      "[c]item.draconicevolution:wyvernChest:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernLeggs",
+    "images":[],
+    "content":
+    [
+      "你能感覺到註入龍力的護腿使你的防禦力更強，速度更快.",
+      "火焰保護.",
+      "速度.",
+      "+80 基本護甲",
+      "[c]item.draconicevolution:wyvernLeggs:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wyvernBoots",
+    "images":[],
+    "content":
+    [
+      "你學會了增強鉆石靴子。龍力似乎讓你更加敏捷.",
+      "火焰保護",
+      "摔落保護",
+      "跳躍提升",
+      "+20 基本護甲",
+      "[c]item.draconicevolution:wyvernBoots:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:teleporterMKI",
+    "images":[],
+    "content":
+    [
+      "你要設法運用末影能量和你關於龍的知識來創造一個基礎傳送點，這是有代價的.",
+      "綁定能量總是不穩定，它只能用20次並且每次使用都會扣血.",
+      "它只能綁定1個點，但它能夠跨世界傳送，可惜用完就要重新做.",
+      "[c]item.draconicevolution:teleporterMKI:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:teleporterMKII",
+    "images":[],
+    "content":
+    [
+      "通過學習龍力與末影之力之間的相互作用，你做出了高級傳送石。.",
+      "你現在可以儲存多達100個的傳送點，而且可以用末影珍珠做燃料.",
+      "這塊傳送石可以幫助你隨心所欲地在任何世界的任何地點進行傳送，只要你去過.",
+      "Shift + 右鍵來打開界面，大部分的功能已經標註說明.",
+      "左邊是目的地列表，每個目的地都有一個鎖定按鈕，可以防止你手滑修改或刪除掉.",
+      "右邊從上往下你可以看到目的地信息、修改選項、把坐標修改到你當前位置和刪除的選項.",
+      "在那些東西的下面是燃料、傳送按鈕、把當前坐標添加為新的傳送點和從背包裏添加末影珍珠作為燃料的選項 Shift + 左鍵添加一組.",
+      "你也可以在遊戲界面對著傳送石Shift + 鼠標滾輪來選擇目的地，右鍵傳送.",
+      "你還可以左鍵把玩家和生物傳送走，然而傳送玩家要按住Shift鍵，生物不能跨越世界傳送.",
+      "[c]item.draconicevolution:teleporterMKII:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:teleporterStand",
+    "images":[],
+    "content":
+    [
+      "你已經知道了怎樣制作一個可以放基礎或高級傳送寶石的底座.",
+      "把寶石拿在手裏右鍵底座就能把它放上去，然後右鍵底座傳送.",
+      "底座的優點是寶石不會掉耐久和使用燃料，缺點是你不能把寶石帶到目的地去.",
+      "空手Shift + 右鍵底座可以把寶石拿下來.",
+      "當在鐵砧裏改過名後的基礎或高級傳送寶石放在底座上時，寶石的名字和目的地都會在底座上方顯示出來.",
+      "如果你按住Shift，除了你看著的底座外，所有名字都會隱藏 Shift鍵的作用可以在config裏改成相反的",
+      "[c]tile.draconicevolution:teleporterStand:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:infusedObsidian",
+    "images":[],
+    "content":
+    [
+      "結合龍塊的堅硬這一特點，你發現將龍力註入黑曜石後可以創造出一個沒人能打破的新方塊，就連末影龍和雕零也沒轍.",
+      "這個方塊的防爆性和挖掘時間是黑曜石的兩倍，挖掘它也需要一個更好的鎬子.",
+      "",
+      "你想知道這個方塊還有什?其他的用途......",
+      "[c]tile.draconicevolution:infusedObsidian:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:dislocatorReceptacle",
+    "nameL":"龍之門",
+    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/dislocatorReceptical.png"],
+    "content":
+    [
+      "就像黑曜石，註入龍力的黑曜石也可以做一個神奇的傳送門，它的大小可以從1X1到150X150，可以用傳送石來設置目的地.",
+      "制作轉送門的方法和地獄門一樣，但是最大可以蓋到150x150格，然後用龍之門傳送器替換掉其中一個方塊.",
+      "激活傳送門只需用已綁定位置的基礎或高級傳送寶石右鍵傳送容器.",
+      "你也可以用漏鬥或其他自動的方法把傳送器放進或拿出傳送容器.",
+      "門的方向隨意，可橫可豎.",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/dislocatorReceptical.png",
+      "[c]tile.draconicevolution:dislocatorReceptacle:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:draconium",
+    "nameL":"覆活石",
+    "meta":1,
+    "images":[],
+    "content":
+    [
+      "龍覆活儀式中的關鍵零件.",
+      "[c]tile.draconicevolution:draconium:1"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:enderArrow",
+    "images":[],
+    "content":
+    [
+      "這也許不是最明智的辦法......用末影珍珠裝在在箭頭上來傳送的更遠的方法.",
+      "這當然會使箭更重，以至於一個正常的弓不能射出去，除了雙足飛龍弓或龍之弓外你別無選擇.",
+      "所以，你會問什?東西有問題？好吧，你一定察覺到了用末影珍珠瞬移很痛。現在加上雙足飛龍弓，或者更糟的龍之弓，你得到了一個極端痛苦的合成方法.",
+      "一定要穿上你最好的摔落保護裝備，希望它能承受的住.",
+      "[c]item.draconicevolution:enderArrow.name:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:mobSoul",
+    "images":[],
+    "content":
+    [
+      "你現在註意到了用龍之武器可以偶爾偷走你所殺之物的靈魂."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:dragonHeart",
+    "images":[],
+    "content":
+    [
+      "末影龍和夢幻龍的掉落物。這個有著巨大能量的物品可能是用古代的蘇醒儀式揭開龍力真正力量的鑰匙.",
+      "覆活儀式:",
+      "1. 把龍的心臟扔在地上，用一場爆炸將它激活.",
+      "2. 把4-16個龍之核心放置到激活的龍心旁 每個充能龍力方塊4個龍芯。幾秒後的初次激活會把附近除了龍之核心以外的所有方塊吸進去.",
+      "3. 快速的扔1-4個充能龍力方塊到龍心旁.",
+      "4. 當龍心給充能龍力方塊充能時就意味著它開始工作了。現在站遠點靜靜的看奇跡的發生.",
+      "每次儀式只能用一個龍心以免浪費."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicIngot",
+    "images":[],
+    "content":
+    [
+      "你一直在學習龍力與各種物質之間不同的聯系，已經意識到這只是一個惰性的狀態.",
+      "你已經發現了一個用龍心釋放出龍力真正力量的覆雜儀式.",
+      "在龍心頁面查看詳情",
+      "[c]item.draconicevolution:draconicIngot:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:draconicBlock",
+    "images":[],
+    "content":
+    [
+      "你一直在學習龍力與各種物質之間不同的聯系，已經意識到這只是一個惰性的狀態.",
+      "你已經發現了一個用龍心釋放出龍力真正力量的覆雜儀式.",
+      "在龍心頁面查看詳情",
+      "[c]tile.draconicevolution:draconicBlock:0",
+      "這個方塊同樣可以防爆，且能夠困住雕零."
+    ]
+  },
+  {
+    "name":"item.draconicevolution:awakenedCore",
+    "images":[],
+    "content":
+    [
+      "這個材料可以用來制作最高級的龍之物品.",
+      "[c]item.draconicevolution:awakenedCore:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumEnergyCore",
+    "nameL":"龍之能量核心",
+    "meta":1,
+    "images":[],
+    "content":
+    [
+      "這是雙足飛龍核心的能量升級版，用於更高級的合成.",
+      "[c]item.draconicevolution:draconiumEnergyCore:1"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicPickaxe",
+    "images":[],
+    "content":
+    [
+     "對龍的深入研究已經為你指明了一條通往更強力量的路......",
+	 "挖掘：",
+      "  1x1x1 到 5x5x1 基本範圍挖掘，深度可獨立調節，可升級",
+      "  垃圾過濾器",
+      "  安全範圍挖掘模式 確保你不會手滑把你整個家都挖掉",
+      "[c]item.draconicevolution:draconicPickaxe:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicShovel",
+    "images":[],
+    "content":
+    [
+      "對龍的深入研究已經為你指明了一條通往更強力量的路......",
+      "挖掘：",
+      "  1x1x1 到 5x5x1 基本範圍挖掘，深度可獨立調節，可升級",
+      "  垃圾過濾器",
+      "  安全範圍挖掘模式 確保你不會手滑把你整個家都挖掉",
+
+      "[c]item.draconicevolution:draconicShovel:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicAxe",
+    "images":[],
+    "content":
+    [
+      "對龍的深入研究已經為你指明了一條通往更強力量的路......",
+      "砍樹：",
+      "  1x1x1 到 5x5x1 基本範圍挖掘，深度可獨立調節，可升級",
+      "  科學的砍樹模式，一下就能砍倒整棵樹",
+      "  安全範圍挖掘模式 確保你不會手滑把你整個家都挖掉",
+      "[c]item.draconicevolution:draconicAxe:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicHoe",
+    "images":[],
+    "content":
+    [
+      "對龍的深入研究已經為你指明了一條通往更強力量的路......",
+      "這個工具可以鋤一塊9x9的地，正中央會幫你生成水源.",
+      "它也可以挖或填9x9泥土來鋤地，但背包裏要有足夠的泥土.",
+      "耕地：",
+      "  1x1 到 7x7基本範圍挖掘，可升級",
+      "  會自動挖或者填泥土，前提是你的背包裏有泥土。",
+      "[c]item.draconicevolution:draconicHoe:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicSword",
+    "images":[],
+    "content":
+    [
+      "把覺醒龍力和雙足飛龍劍結合起來就可以得到更強大的武器——龍之劍.",
+      "+40 攻擊傷害，可升級",
+      "+20% 生物生命 增加生物生命20%血量的傷害",
+      "5x5 範圍傷害，可升級",
+      "[c]item.draconicevolution:draconicSword:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicBow",
+    "images":[],
+    "content":
+    [
+      "對龍的深入研究已經為你指明了一條通往更強力量的路......",
+      "可調整的設置：",
+      "-[基本傷害] 箭頭擊中目標的速度越大，傷害加成越大。",
+      "-[箭頭速度調整器] 原版弓的數值是+0。",
+      "-[自動開火] 弓會在被拉滿以後自動射擊。",
+      "-[爆炸性的力量] 和它的字面意思一樣！",
+      "-[激波力量] 箭頭會產生一股極強的沖擊波，在爆炸範圍內對目標造成巨大的傷害。這個功能不會破壞方塊，而且只有在龍火之矢開啟的情況下才會起作用。",
+      "-[龍火之矢] 功能和無限附魔差不多，可以讓你在背包裏沒有箭的情況下射擊。但是，它也有10%的傷害加成，允許你使用激波力量，比普通的箭輕50%，在空中受到重力的影響更小。",
+	  "-[放大] 可以讓你放大來射得更準。",
+      "每射一次所消耗的RF取決於設置中的攻擊速度和爆炸力量的倍數。這意味著只要把所有設置調到最大需要指數型增長的更多的能量。",
+      "能源容量，拉弓速度，箭頭速度和基本傷害都可以升級。",
+      "這把弓比原版的弓精確十幾倍。意味著箭頭會射的比你瞄準的地方更近，箭頭在飛行過程中不會偏移太多。",
+      "[c]item.draconicevolution:draconicBow:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicDistructionStaff",
+    "images":[],
+    "content":
+    [
+      "在經歷了漫長的疲勞和痛苦後，你掌握了龍之力量，創造出了永遠不能落入他人之手的武器和工具!",
+      "挖礦:",
+      "  終極的挖掘速度",
+      "  1X1X1到7X7X7的基本範圍挖掘，可獨立調整深度，可升級",
+      "  垃圾過濾器",
+      "  安全範圍挖掘模式 確保你不會手滑把你整個家都挖掉",
+      "攻擊:",
+      "  +60 攻擊傷害，可升級",
+      "  +30% 生物生命 增加生物生命30%血量的傷害",
+      "  1X1到7X7 範圍傷害，可升級",
+      "[c]item.draconicevolution:draconicDistructionStaff:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconiumFluxCapacitor",
+    "nameL":"龍之通量電容",
+    "meta":1,
+    "images":[],
+    "content":
+    [
+      "有了這個升級你可以浪好幾天都不用停下來充能.",
+      "[c]item.draconicevolution:draconiumFluxCapacitor:1"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicHelm",
+    "images":[],
+    "content":
+    [
+      "再也不用害怕黑夜，你任何時候都看得清所有東西，除非你摘掉眼鏡.",
+      "- 夜視",
+      "- 牛奶",
+      "- 你可以不用呼吸了，免疫窒息和溺水傷害",
+      "- 水下速掘",
+      "+60 基本護甲",
+      "[c]item.draconicevolution:draconicHelm:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicChest",
+    "images":[],
+    "content":
+    [
+      "使用龍之心的你變得更強，你能夠飛行了.",
+      "- 飛行",
+      "- 空中速掘",
+      "- 火焰保護",
+      "+200 基本護甲",
+      "[c]item.draconicevolution:draconicChest:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicLeggs",
+    "images":[],
+    "content":
+    [
+      "龍的靈魂會保護你，讓你跑得更快.",
+      "- 速度提升",
+      "+180 基本護甲",
+      "[c]item.draconicevolution:draconicLeggs:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:draconicBoots",
+    "images":[],
+    "content":
+    [
+      "龍之心讓你更強、更快、跳的更高.",
+      "- 摔落保護",
+      "- 跳躍提升",
+      "- 自動跳躍",
+      "+60 基本護甲",
+      "[c]item.draconicevolution:draconicBoots:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:chaosShard",
+    "images":[],
+    "content":
+    [
+      "在混沌島頁面查看詳情.",
+      "[c]item.draconicevolution:chaosShard:0"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:chaoticCore",
+    "images":[],
+    "content":
+    [
+      "對混沌碎片中蘊含暗黑能量的調查指引你創造出更強大的核心.但如何利用這?一個黑暗又強大的物品是個問題.",
+      "[c]item.draconicevolution:chaoticCore:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:upgradeModifier",
+    "images":[],
+    "content":
+    [
+      "升級調整器是一個可以升級工具和物品的方塊",
+      "當你把一個可升級的物品放進升級槽後，你會在窗口的下半部分看到可升級選項的列表。你也可以在窗口的右側看到工具目前的屬性。",
+      "升級物品需要核心。你會在每個升級的下面看到可以使用的核心等級清單。在窗口的左上角你能看到核心 \"Cap\" 。分別是此物品最多可裝核心、此物品已安裝多少核心和此物品還能安裝多少核心",
+      "加入核心只要你的背包裏有核心，然後在你想升級的選項下面點擊 + 按鈕，移除一個核心點擊 - 按鈕。在升級下面的核心上的數字表示已經加在升級上的核心等級的數量。如果你把鼠標移到那個數字上面，他會顯示那個核心等級值多少點數。",
+      "在每個升級上方的數字是當前所加的升級點。每個升級有一個加點的基數，這決定了屬性的基本價值。如果你把鼠標移到數字上，你會看到基本點數、最大點數和點數消耗。",
+      "用更高等級的核心能給物品加上更好的屬性。",
+      "[c]tile.draconicevolution:upgradeModifier:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:weatherController",
+    "images":[],
+    "content":
+    [
+      "這是一個可以控制天氣的黑盒子，使用它只需往裏面放幾個綠寶石然後選個模式。裏面有三種模式：關雨、開雨和雷電風暴.",
+      "激活它需要給它輸入一個紅石信號，想保持晴天或雨天的話，陽光傳感器和雨水傳感器是不錯的選擇.",
+      "[c]tile.draconicevolution:weatherController:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:generator",
+    "meta":3,
+    "images":[],
+    "content":
+    [
+      "這是一個基礎的低電量發電機 大約80RF/Tick 如果你沒有其他產生RF的模組，這個東西會很便利，如果你恰好有一個自動化樹場、兩個極限熔爐和兩個高溫發電機的話，你就不需要它了.",
+      "[c]tile.draconicevolution:generator:3"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:grinder",
+    "meta":3,
+    "images":[],
+    "content":
+    [
+      "每個人都需要有效率的怪物農場。你可以發現你所擁有的龍力!",
+      "怪物粉碎機會殺死前面7x7範圍的所有生物。效率很高，通上RF能源後更快.",
+      "為了避免卡頓，被怪物粉碎機殺死的生物掉落的經驗球會在30秒後消失。如果可以的話，推薦你使用類似Openblocks開放是方塊模組裏的虛空漏鬥的東西來收集經驗。←作者原話",
+      "[c]tile.draconicevolution:grinder:3"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyInfuser",
+    "images":[],
+    "content":
+    [
+      "由於更快能源傳輸的需求，你發現了發明出註入器的方法.",
+      "它的充電速度比其他大部分模組的RF充電器都快，而且有很酷的粒子效果!",
+      "[c]tile.draconicevolution:energyInfuser:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:sunDial",
+    "images":[],
+    "content":
+    [
+      "這是可以改變時間的方塊。只需把它放下來，通上一個持續的紅石信號就行了.",
+      "一旦這個方塊被充能，他會對太陽發射一個粒子光束，把時間加快30倍.",
+      "記得及時關掉紅石信號.",
+      "[c]tile.draconicevolution:sunDial:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:playerDetector",
+    "images":[],
+    "content":
+    [
+      "普通的玩家檢測器，它最大可以調到檢測10個方塊內的玩家。.",
+      "[c]tile.draconicevolution:playerDetector:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:playerDetectorAdvanced",
+    "images":[],
+    "content":
+    [
+      "這是玩家檢測器的高級版.",
+      "最大距離20格，一個決定檢測那些玩家的白名單或黑名單，偽裝功能，你可以隱藏你的檢測器，沒人看得到它，反轉紅石信號輸出簡化配置.",
+      "[c]tile.draconicevolution:playerDetectorAdvanced:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:flowGate",
+    "nameL":"能量閥門",
+    "images":[],
+    "content":
+    [
+      "閥門有了兩種不同的味道：能量和流體。他們的作用是讓你簡單的控制每Tick通過的紅石能量或流體的總量.",
+      "這些設備使用方法很簡單，它有輸入面和輸出面.當你放置時他們的輸入面總是朝著你，像放置活塞一樣.你也可以用扳手旋轉他們.",
+      "它的GUI只有兩個值由你來調整。“紅石信號高”是紅石信號為15時流動。“紅石信號低”是紅石信號為0時流動。你可以通入0-15間的紅石信號來控制流速。“流動”顯示器顯示根據紅石信號大小可以流過的能量或液體的量.",
+      "[c]tile.draconicevolution:flowGate:0",
+      "[c]tile.draconicevolution:flowGate:6",
+      "ComputerCraft電腦mod/Open Commuters方法：",
+      "getFlow() - 返回當前的流量值",
+      "setSignalHighFlow(integer)",
+      "getSignalHighFlow()",
+      "setSignalLowFlow(integer)",
+      "getSignalLowFlow()",
+      "setOverrideEnabled(boolean) - 把這個設置為true可以讓你不受輸入紅石信號的影響控制流速",
+      "getOverrideEnabled()",
+      "setFlowOverride(integer) - 如果 setOverrideEnabled 設置為true。這個方法可以讓你設定流速，流速不能在GUI內更改且不受輸入紅石信號的影響。"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:dissEnchanter",
+    "images":[],
+    "content":
+    [
+      "用這個設備你可以用經驗把物品上的附魔轉移到書上去.",
+      "轉移消耗的等級取決於物品修覆消耗的等級，每次移除一個附魔，消耗的等級都會略微減少.",
+      "使用方法：把附魔的物品放在第一格，把普通的書放在中間的格子，然後點擊轉移按鈕.物品的第一個附魔會移除到書上.",
+      "每當你為裝備祛魔一次，該裝備的耐久度會減少40%.耐久度在GUI上顯示.你可以在周圍放置書架或其他物品來減少耐久度的消耗.放置20個書架就不會掉耐久.",
+      "警告：使用能量的裝備也會掉耐久度和損壞，但是不會顯示損壞值.",
+      "[c]tile.draconicevolution:dissEnchanter:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:draconiumChest",
+    "images":[],
+    "content":
+    [
+      "用你已知所有關於龍的知識來創造一個龍箱.",
+      "有234個格子，集成工作台，5格雙倍礦物自動冶煉RF熔爐.這是已知最好的、最多才多藝的箱子!",
+      "它可以變成你任何想要的顏色。只需空手Shift + 右鍵查看詳情.",
+      "[c]tile.draconicevolution:draconiumChest:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:customSpawner",
+    "images":[],
+    "content":
+    [
+      "用一個龍之核心右鍵任何刷怪籠來穩定它.然後你就可以用龍之工具挖掉它了.",
+      "用生物的靈魂來改變刷怪籠刷出的生物.",
+      "這些物品可以升級刷怪籠：",
+      "- 雙足飛龍核心：升級到等級2，增加生成數量和速度.",
+      "- 覺醒核心：升級到等級3，大大增加生成總數和速度.",
+      "- 下界之星：玩家站在16個方塊以外也能刷怪.",
+      "- Notch的蘋果：無視生物生成的要求.例如：在最高亮度時生物也能生成.",
+      "當你破壞掉它，你會得到一切掉落物，除了生物的靈魂，因為它太脆弱，在挖掘的過程中被摧毀了.",
+      "[c]tile.draconicevolution:customSpawner:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyStorageCore",
+    "images":[],
+    "content":
+    [
+      "用你已知所有關於龍的知識來創造出能儲存2.14兆RF的多方塊構造.",
+      "詳情請見多方塊能量核心教程.",
+      "[c]tile.draconicevolution:energyStorageCore:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyPylon",
+    "images":[],
+    "content":
+    [
+      "這個設備用來提取或輸入能量到多方塊能量存儲.它最大的傳輸率是2147483647 RF/Tick.",
+      "[c]tile.draconicevolution:energyPylon:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:reactorStabilizer",
+    "nameL":"反應堆穩定器",
+    "images":[
+	  "http://imgur.com/jj2j1nY.png",
+	  "http://imgur.com/19fz2j8.png",
+	  "http://imgur.com/G0QmDny.png",
+	  "http://imgur.com/2da65eR.png",
+	  "http://imgur.com/T6cboSs.png",
+	  "http://imgur.com/t8dzFlS.png",
+	  "http://imgur.com/iRIhA8i.png",
+	  "http://imgur.com/4txX1DY.png",
+	  "http://imgur.com/cazROqY.jpg",
+	  "http://imgur.com/ABVL9iA.png",
+	  "http://imgur.com/M6ZYoX7.png"
+	],
+    "content":
+    [
+      "反應堆是史上最危險的能量源，它使用了混沌領域中的能量來產生巨大的電能.",
+      "沒有犧牲就不會成功，巨大的能量是非常危險的.這樣的能量難以控制，你可能會失敗很多次.但是在這個時刻，微不足道的凡人的生活和單調的世界早已不是你現在所考慮的.務必準備好你設計的藍圖，因為一個小小的疏忽都會造成無法預料的後果.下圖為反應堆爆炸的後果.",
+	  "http://imgur.com/jj2j1nY.png[>]http://imgur.com/19fz2j8.png[>]http://imgur.com/G0QmDny.png[>]http://imgur.com/2da65eR.png[>]http://imgur.com/T6cboSs.png",
+
+      "反應堆學的基本概念:",
+      "當龍燃料與混沌晶體結合，它們會產生巨大的熱量和RF能量.這個過程中燃料會產生巨大的熱能.為了防止熱量的分散，我們需要一個密封的區域和散熱系統.第二個系統是用於維持反應堆的自我控制.第三個系統用於調整反應堆的輸入和輸出能量.",
+      "準備好這些系統後就會形成一種超致密、高溫的等離子體.這個反應堆的核心會形成球形，其中的能量消耗和生產必須達到平衡.這種平衡最好實現在工作溫度為8000度的時候.你可以通過能量閥門來控制平衡.",
+      "反應堆穩定器可以讓你從核心中提取能量，但是你不能隨意地提取能量.你從中提取的能量越多，核心的反應會越強烈，這樣會增加密封器的負載.負載越大，反應堆的效率越低.",
+      "某種意義上來說，密封器的反應會破壞它和核心反應的平衡，這會導致災難性的爆炸.",
+
+      "建造方法:",
+      "建造反應堆需要以下材料：4個反應堆穩定器、1個反應堆核心、1個能量噴射器、兩個能量閥門.",
+      "第一步：將反應堆核心放在中央位置.",
+	  "http://imgur.com/t8dzFlS.png",
+      "第二步：把四個反應堆穩定器放在核心的四面，每一個都面向核心，且與核心之間的距離為4格.",
+	  "http://imgur.com/iRIhA8i.png",
+      "第三步：在核心的下面放置能量噴射器，shift+右鍵把它設置為  溫度 反轉 模式",
+	  "http://imgur.com/4txX1DY.png",
+      "如果要檢測反應堆穩定器是否與核心連接，只需右鍵單擊核心，將反應堆的GUI打開.如果打不開可以嘗試重新放置反應堆核心.如果四個反應堆穩定器都放置正確，反應堆狀態會顯示OFFLINE離線.反之將顯示INVALID SETUP 無效的設置，並且你需要重新設置穩定器的位置.",
+	  "http://imgur.com/cazROqY.jpg",
+
+      "反應堆零件的作用與合成方式:",
+      "[c]tile.draconicevolution:reactorCore:0",
+      "反應堆核心會在反應中擴大，它包含一個混沌碎片，用少量的龍錠做催化反應.",
+      "[c]tile.draconicevolution:reactorEnergyInjector:0",
+      "能量噴射器是用來啟動混沌碎片的催化反應，使密封區域中產生能量.",
+      "所以我們需要能量閥門來調節能量大小使得密封區域中的能量處於平衡狀態.這個裝置沒有備用系統，如果控制不當會產生劇烈的爆炸.",
+      "[c]tile.draconicevolution:reactorStabilizer:0",
+      "[c]item.draconicevolution:reactorCraftingPart:0",
+      "[c]item.draconicevolution:reactorCraftingPart:1",
+      "[c]item.draconicevolution:reactorCraftingPart:2",
+      "[c]item.draconicevolution:reactorCraftingPart:3",
+      "[c]item.draconicevolution:reactorCraftingPart:4",
+
+      "反應堆操作:",
+      "首先，打開反應堆穩定器，在左側 插入燃料 處放入8個覺醒龍錠.放入的燃料可以以液體或固體的形式.",
+      "一旦啟動了反應堆，燃料槽中的物質必須可以不斷填充，請在燃料槽中添加足夠多的燃料.如果你要清除反應堆中的能量必須要關閉反應堆.",
+      "當燃料槽中有足夠的燃料，給反應堆輸入的RF能量足夠時，反應堆就會開始持續不斷地發電.能量飽和達到50%且反應堆處於“ONLINE”狀態時，核心的溫度會持續上升直到達到最高溫度：2000.",
+      "反應堆擁有足夠的能量和溫度時，按左下角的 激活 按鈕來激活反應堆.反應堆的狀態會改變為ONLINE，它會持續輸出能量.",
+	  "http://imgur.com/ABVL9iA.png",
+      "溫度表顯示反應堆堆芯的溫度。溫度越高，所用的能量就越高，能量就會被耗盡。為最大效率，最好是保持一個反應器的溫度約為8000度。如果核心溫度通過8000度，密封區域將開始患上增加功率排水，從而降低整體的RF輸出效率。例如，在10000度下，該領域將承受10倍的負荷，它是在8000度以下。在11000度下，該字段將在20倍以下的負載下，它是在8000度。最終它將成為不可能的密封區域獲得足夠的力量迅速和爆炸迫在眉睫.",
+      "反應堆會接受無限量的能量，只要反應堆是紅色的狀態，你就是安全的，你需要通過能量閥門來控制反應堆.",
+	  "http://imgur.com/M6ZYoX7.png",
+      "當你從反應堆中去出過多的能量時，核心會變得更熱，最終導致爆炸.",
+      "如果密封器負載達到0%，反應堆就會瞬間爆炸，爆炸範圍為以反應堆為圓心，10-200區塊為半徑的圓.具體範圍取決於反應堆中的燃料.   添加動態圖片：反應堆的爆炸",
+      "能量飽和度決定了反應堆的發電效率，飽和度越低，效率也就越高.但是當飽和度達到0時，反應堆將會爆炸！",
+      "總之，只要合理控制反應堆的輸入和輸出就可以穩定地獲取RF能量.",
+      "警告！！！",
+      "如果燃料100%被轉化，反應不會停止.相反，核心溫度會繼續上升，直到反應堆爆炸.遇到這種情況你必須關閉反應堆添加燃料.",
+      "當你在GUI中按下關閉按鈕後反應堆將停止運行.接下來核心中的飽和度會增加，溫度下降.溫度下降到2000度以下時，反應堆將完全被關閉.這是你可以安全地清楚燃料或添加新的燃料.",
+
+      "反應堆爆炸:",
+      "你想用黑曜石這樣堅硬的材料包圍反應堆來防止它的爆炸？這是不可能的.反應堆爆炸時產生的沖擊波會毀滅附近的一切，沒有什?能阻止它，它的爆炸範圍與內部的燃料成正比.",
+      "紅石應用:",
+      "在能量噴射器的旁邊放置一個紅石比較器可以檢測能量狀態，shift+右鍵能量噴射器可以改變它的紅石模式.",
+
+      "Computercraft電腦mod和Open Computers開放式電腦 結合：",
+
+      "簡單地把一台電腦貼到其中一個穩定器或者能量註入器，你就可以獲得反應堆所有的信息和遠程關閉反應堆的功能。實施這些的方法不言自明。",
+      "方法：",
+      "getReactorInfo() - 返回和排列以下信息 溫度、場強、最大場強、能量飽和度、最大能量飽和度、能量轉換、最大能量轉換、燃料轉換、最大燃料轉換、生成速率、場流失率、燃料轉化率、狀態",
+      "chargeReactor() - 和GUI裏的充能按鈕一樣的效果。",
+      "activateReactor() - 和GUI裏的激活反應堆按鈕一樣的效果。",
+      "stopReactor() - 和GUI裏的停止反應堆按鈕一樣的效果。"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:particleGenerator",
+    "images":[],
+    "content":
+    [
+      "純粹的裝飾，這個塊允許完全可定制的粒子效果，以創建。為了了解更多的信息，檢查出它的圖形用戶界面的指令手冊.",
+      "這個方塊可以儲存一部分多方塊結構的能量.",
+      "[c]tile.draconicevolution:particleGenerator:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"能量中繼器",
+    "meta":0,
+    "images":[],
+    "content":
+    [
+      "這是龍之進化的基礎構件，他可以加強能量傳送的距離.",
+      "這個設備本身不能發送或接收來自一個方塊的能量，他的用途是作為一個樞紐，可以連接設備.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 25格",
+      "最多連接: 10個",
+      "[c]tile.draconicevolution:energyCrystal:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"高級能量中繼器",
+    "meta":1,
+    "images":[],
+    "content":
+    [
+      "這是一個更高級的能量傳遞器，它能夠更快的能量傳輸，並連接更多數量的設備.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 50格",
+      "最多連接: 20個",
+      "[c]tile.draconicevolution:energyCrystal:1"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"能量收發器",
+    "meta":2,
+    "images":[],
+    "content":
+    [
+      "這個方塊用於發送和接收能量.",
+      "將其放置在一個能量接收機器或者能量生產器旁，使用連接扳手將它們連接到到一起，你可以使用連接扳手在輸入和輸出模式之間切換，連接扳手通過Shift+右鍵改變功能.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 25格",
+      "最多連接: 2個",
+      "[c]tile.draconicevolution:energyCrystal:2"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"高級能量收發器",
+    "meta":3,
+    "images":[],
+    "content":
+    [
+      "這是一個更強大的能量收發器.",
+      "隨著它能量傳輸速率的提高，它達到普通設備能量發送和接收的五倍以上的速度.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 50格",
+      "最多連接: 4個",
+      "[c]tile.draconicevolution:energyCrystal:3"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"無線能量收發器",
+    "meta":4,
+    "images":[],
+    "content":
+    [
+      "該裝置的工作原理類似於能量中繼器，但它能夠無線連接到RF接收設備.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 25格",
+      "最多連接: 3個",
+      "無線範圍: 15格",
+      "最多無線連接: 8個",
+      "[c]tile.draconicevolution:energyCrystal:4"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:energyCrystal",
+    "nameL":"高級的無線能量收發器",
+    "meta":5,
+    "images":[],
+    "content":
+    [
+      "這是一個高級無線能量收發器，能夠連接到更多數量的設備，以及更高速度地傳輸能量.",
+      "看連接扳手的信息介紹，就知道如何連接它們和能量分布.",
+      "範圍: 50格",
+      "最多連接: 6個",
+      "無線範圍: 30格",
+      "最多無線連接: 16個",
+      "[c]tile.draconicevolution:energyCrystal:5"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:wrench",
+    "images":[],
+    "content":
+    [
+      "這個工具用來連接設備.",
+      "綁定：連接兩個設備需要Shift+右鍵把工具切換到綁定模式。然後右鍵兩個設備來連接他們，不分先後。任何能量網絡設備如能量中繼器，無限收發器都可以互相連接。無線收發器可以被連接到任何其他使用RF能量的方塊。先點擊無線收發器，再點擊使用RF能量的方塊能把它們兩個連接起來.",
+      "解除綁定：解綁兩個已連接的設備需要把工具切換到解綁模式，然後右鍵你想解綁的兩個設備。你也可以用Unbind All 解綁全部 模式來解綁所有設備.",
+      "可視指示器：在保持連接扳手的同時，你可以看到所有連接設備之間的連接，除了無線收發器和RF設備之間的連接.",
+      "連接限制：所有設備支持的連接數量是有限的。這個方塊可以連接的設備的數量也是有限的。中繼器可用的連接數量最多，因此，可用於連接收發器，有用的鏈接是有限的.",
+      "能量傳遞機制：每一個能量裝置都有它自己的內部能量緩沖區。如果一個設備的緩沖區被連接到低於它自己的緩沖區，它會發送能量到該設備，我要平衡兩個緩沖區。兩者之間的能量差決定了能量被發送的速率.",
+      "[c]item.draconicevolution:wrench:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:rainSensor",
+    "images":[],
+    "content":
+    [
+      "這個裝置在下雨的時候發出紅石信號，完美地配合了氣象控制器.",
+      "[c]ile.draconicevolution:rainSensor:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:potentiometer",
+    "images":[],
+    "content":
+    [
+      "一個簡單的紅石信號發射器，能夠發射紅石信號，信號強度可以在0和15之間改變.",
+      "[c]tile.draconicevolution:potentiometer:0"
+    ]
+  },
+  {
+    "name":"tile.draconicevolution:xRayBlock",
+    "images":[],
+    "content":
+    [
+      "你們許多人很可能在加載大量方塊時出現載圖的錯誤，這種錯誤能讓你們看到地底的礦洞與隧道.",
+      "此方塊就有那樣的效果，當你把它放在地面的時候，它就變得透明了，讓你看穿這個世界，我看不到這個世界美好的一面，人心是那樣的醜陋.",
+      "這可能對於你發現礦脈和地牢非常有幫助-也許還有其他玩家不想讓你找到的東西，這個的方塊不便宜。它將花費你幾個下界之星，一旦被放置，除了摧毀它之外，你無法將它回收.",
+      "[c]tile.draconicevolution:xRayBlock:0",
+      "TODO"
+    ]
+  },
+  {
+    "name":"item.draconicevolution:safetyMatch",
+    "nameL":"安全火柴",
+    "meta":1000,
+    "images":[],
+    "content":
+    [
+      "你對於在地上點火然後把周圍的一切都燒毀了的事情害怕了嗎？用這一種火柴來點火，它既不會擴散，也不會燒到你，和你的房子，你聽說過賣火柴的小女孩嗎，小女孩之所以沒被自己的火柴燒到就是因為用了這種火柴.",
+      "[c]item.draconicevolution:safetyMatch:1000",
+      "你不覺得你的口袋裏有許多松散的火柴很麻煩嗎？",
+      "[c]item.draconicevolution:safetyMatch:0"
+    ]
+  },
+  {
+    "name":"item.enchanted_book",
+    "nameL":"收割者",
+    "images":[],
+    "content":
+    [
+
+
+
+
+
+
+
+      "附魔屬性  靈魂收割者靈魂收割者 這個屬性可以增加怪物掉落靈魂的幾率.它的最大等級是5級，它可以附魔在大多數武器上使怪物掉落靈魂."
+    ]
+  },
+  {
+    "name":"info.龍之護甲",
+
+    "images":[],
+    "content":
+    [
+      "飛龍和龍力裝甲都有一個可以吸收傷害的護甲。",
+      "裝備任何一件龍力或飛龍裝甲都會給你一部分的護甲。龍力裝備的護甲比飛龍裝備的護甲更好。",
+      "當你的護甲處於激活狀態時，你能在默認在快捷欄左邊顯示的小框框裏看到它的數據，小框框的位置可以在工具配置文件的GUI裏調整。",
+      "小框框顯示三個數據：護甲點數--大紅綠條，熵值/混亂值--小綠條，在盔甲中剩余的RF--小藍條。在小框框的配置中能開啟顯示這些數據的數字值。",
+      "護甲點數或容量是盔甲受到半顆心傷害能吸收的傷害點數的數值，當你受到傷害時這個值會下降。護甲點數能用RF能量恢覆。基本的恢覆速度是整體容量除以3秒。",
+      "熵值/混亂值的範圍是從0%到100%。每次你受到傷害它都會增加。熵值減少護甲點數的恢覆速度。如果熵值達到了100%，那?你的護甲就完全不能回覆。",
+      "護甲能在升級調整器裏升級。升級護甲容量會增加護甲點數，升級護甲恢覆能增加熵值的恢覆速度。註意恢覆速度是恢已穿裝備恢覆點數的平均值。"
+
+    ]
+  },
+  {
+    "name":"info.能量庫",
+    "images":[
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore2.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore3.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore4.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore5.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore6.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore8.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore9.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore11.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore12.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore14.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore15.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore16.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore17.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore18.png",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore19.png"
+    ],
+    "content":
+    [
+      "多方塊結構能量存儲這個能量存儲器是一個多方塊結構，它是一個非常實用的能量存儲器，它可以用龍塊和紅石塊來存儲巨大的RF能量.",
+      "這個能量核心有7個等級，越高級的能量核心可以存儲更多的能量.",
+      "建造它你需要5種不同的材料：",
+      "-能量核心   X1",
+      "-粒子發生器 X4",
+      "-紅石塊     不同等級的需求不同",
+      "-龍塊       不同等級的需求不同",
+      "-能量塔     兩個以上",
+      "這個能量存儲裝置由 能量核心 和四個 粒子發生器 組成，把 能量核心 放在中間，粒子發生器放在它的四周.具體方式如下圖所示.連接到能量存儲裝置的發電機必須放在距離 能量核心方塊 10格以外.",
+      "能量核心方塊 的周圍需要放置紅石塊和龍塊.下面的圖片會告訴你每一個等級的的建造方法以及需要的材料.當建造完成時，只需要對著任意一個粒子發生器 空手shift+右鍵 就可以激活能量存儲裝置.",
+      "等級1",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore2.png",
+      "紅石塊0個 龍塊0個 可儲存45.5萬RF能量",
+      "等級2",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore3.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore4.png",
+      "紅石塊0個 龍塊6個 可儲存273萬RF能量",
+      "等級3",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore5.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore6.png",
+      "紅石塊0個 龍塊26個 可儲存1.64億RF能量",
+      "等級4",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore8.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore9.png",
+      "紅石塊26個 龍塊54個 可儲存9.88億RF能量",
+      "等級5",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore11.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore12.png",
+      "紅石塊80個 龍塊98個 可儲存59.3億RF能量",
+      "等級5",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore14.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore15.png",
+      "紅石塊133個 龍塊150個 可儲存356億RF能量",
+      "等級7",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore1.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore7.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore10.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore13.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore16.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore17.png[>]https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore18.png",
+      "紅石塊328個 龍塊218個 可儲存2.14萬億RF能量",
+      "如果你想給能量存儲器輸入能量或使存儲器輸出能量，你需要在距離 能量核心 15格以內的地方放置能量塔.激活一個能量塔需要在它的頂部或底部放置一塊玻璃.舉個例子，如果你把能量塔放在頂部，你就要把玻璃放在底部.",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/ECore/ECore19.png",
+      "當玻璃塊被正確地放置以後能量塔會立刻被激活並和最近的一個能量存儲裝置連接.如果你看到藍、白色的粒子效果，剛剛放置的玻璃變成了上圖的樣子，說明你連接成功了.你可以對能量塔按shift+右鍵來改變它連接的能量存儲裝置.",
+      "能量塔可以從給能量存儲器輸入能量或從中提取能量.能量塔有輸入模式和輸出模式，按 右鍵 可以改變模式，藍色是輸入模式，橙色是輸出模式.",
+      "在能量塔和核心之間的能量傳輸用一束藍色的能量粒子在兩者之間顯示出來.",
+      "當玩家把準心移動到 物品 上時存儲在核心裏面的能量數值會顯示在左下角的聊天框裏."
+    ]
+  },
+  {
+    "name":"info.龍的覆活儀式",
+    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/resurrectionRitual.png"],
+    "content":
+    [
+      "這個儀式可以讓你覆活末影龍.建造它你需要以下材料：",
+      "-覆活石     1個",
+      "-螢石       4個",
+      "-黑曜石     4個",
+      "-鉆石塊     4個",
+      "-充能龍塊   4個",
+      "-豎紋石英塊 12個",
+      "建造方法如下圖：",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/resurrectionRitual.png",
+      "石英柱不必非常精確地放置，它們只需要放在距離覆活石5格以外的地方就可以了.如果它們是對稱的看上去會更好.這個儀式必須在末地進行.",
+      "當你準備好這個召喚大陣後，你只需要右鍵覆活石然後退後就行了，這個儀式會立即開始，如果沒有變化就說明你做錯了什?.",
+      "再次右鍵覆活石會停止這個儀式，而且充能龍塊中的能量會消失.",
+      "在儀式中所有的末影水晶會被重新激活.在儀式的最後法陣的中心會發生一場巨大的爆炸，爆炸不會破壞太多的方塊但是它會殺死任何靠近的生物.",
+      "儀式結束後，會生成一條和原版幾乎一樣的末影龍，但是他的外表會有所改變.它會更難被殺死，而且造成更大的傷害，每一次召喚都會加強末影龍.玩家越多，難度會越大，直到難度達到極點.這個儀式需要25秒."
+    ]
+  },
+  {
+    "name":"info.豬人的血怒",
+    "images":[],
+    "content":
+    [
+      "不要讓豬人看見你在吃豬排.你不會喜歡接下來發生的事……"
+    ]
+  },
+  {
+    "name":"info.彗星",
+    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/comet.png"],
+    "content":
+    [
+      "把末地裏所有的龍礦挖完了？去搜索末地吧.如果你很幸運的話，你可能會遇到末地彗星.這些彗星由末地石，黑曜石和重要的龍礦組成.在每個區塊有萬分之一的概率生成彗星，所以你需要尋找很久.它們有各種各樣的形態和大小.",
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/comet.png"
+    ]
+  },
+  {
+    "name":"info.混沌島",
+    "images":["https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/chaosIsland.png"],
+    "content":
+    [
+      "想找一個有挑戰性的事嗎？沒錯了，你一定想要找到你的宿命的對決！打敗了末影龍對你來說小菜一碟？可能你說你可以在同一時間打一百條末影龍或者一堆雕靈？如果這都不能難倒你的話那?現在就有一個機會給你.如果你在末地前往坐標x軸或z軸坐標為10000的倍數的地點.比如x為0，z為10000，或者x為0，z為20000，又或者x為10000，z為0.在諸如此類坐標的地點，你可能會找到一個混沌島，這個島非常危險，即使是創造模式也難以靠近.",
+      "混沌島是一個由末地石和黑曜石組成的結構體並且形成時間絕對超過100萬年。它是由暗能量促進生成的。在其黑曜石核心的晶體部分，有一個被我們稱之為混沌晶體的由純暗能量組成的超級屌的晶體.",
+      "混沌島由一種在所有已知物種中最流逼的，最兇殘的玩意兒守護著.那就是混沌守衛！他們原本都是一坨稀疏平常的末影龍，然而因為常年暴露在暗能量下，暗能量輻射並腐蝕了他們的身心，他們最終卻成為了最致命的殺戮機器.",
+      "混沌守衛會用它的穿刺方塊的攻擊使其破除這世界上百分之九十九的護甲從而直接對目標本體進行攻擊.除了一種特別的龍裝以外.但同時它又有能使你的龍裝中的能量瘋狂流失的能力，進而使你的護甲無效化.也就是說如果你不攜帶能充能的玩意兒，那就是在作死.",
+      "就像末影龍一樣，混沌守衛也有它自己的治療晶體能在戰鬥時幫他們補充血量，而這些晶體則分散坐落在島嶼上。但有所不同的是，這些治愈晶體可沒有那?輕松就會被你破壞，要不然它還能被稱為最兇殘最流逼嗎？",
+      "要註意的是，混沌守衛比末影龍要聰明多了，他可是開著掛跟你打的，人家可是能夠重新啟動那些已經被你破壞的治愈晶體的.",
+      "如果混沌守衛被打敗，你便可以去索要你的報酬了，好歹累死累活的打了這?久不是嗎。。。混沌島也不會虧待你，你可以屁顛屁顛的跑到混沌島最中心，然後向下挖個幾層，你就會發現一個藏有混沌晶體的的混沌室。打碎混沌晶體你就會得到你的戰利品-5個混沌碎片！",
+      "警告！！！當你摧毀混沌晶體的時候，能量域場會震蕩從而使那裏整體坍塌。這會直接導致這整座島嶼會在幾秒內毀滅。除非你小子命大正好穿著護甲正處於滿格狀態的龍裝，不然你就認命吧因為你只有幾秒的時間去撿碎片並且逃離此地，否則你就會和這座島嶼一起被抹除在這個世界上。換句話說，充好能再來，不然就GG.",
+
+      "https://raw.githubusercontent.com/brandon3055/Random-Bits/master/DE%20Tablet%20Images/chaosIsland.png"
+    ]
+  },
+  {
+    "name":"info.放置物品在世界上",
+    "images":[],
+    "content":
+    [
+      "龍之進化使你可以把任何物品當成方塊放置在世界中，你可以像懸掛工具一樣把物品掛在墻上進行演示.",
+      "把物品拿在手上並對準一個方塊，按 Place Item 鍵可以把拿在手上的物品放置在世界中.Place Item的默認鍵是P.",
+      "你可以把物品放置在方塊的底部或者側面.按鼠標左鍵可以順時針旋轉它，按shift+鼠標左鍵可以逆時針旋轉它.",
+      "你也可以按shift+鼠標右鍵使它們以更小的角度逆時針旋轉.按右鍵可以撿起那些放置在世界中的物品."
+    ]
+  },
+  {
+    "name":"info.Computercraft模組和開放式電腦模組",
+    "images":[],
+    "content":
+    [
+      "一些方塊現在也可以和其它模組中的電腦關聯.",
+      "現在以下方塊可以和電腦關聯",
+      "-能量核心",
+      "-反應堆",
+      "-流體閥門",
+	  "-能量閥門"
+	]
+  },
+]
